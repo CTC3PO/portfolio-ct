@@ -1,2 +1,2 @@
 # portfolio-ct
-Portfolio work w. NextJS, Typescript and Tailswind CSS
+Portfolio work w. NextJS, Typescript and Tailwind CSS

@@ -1,1 +1,1 @@
-Portfolio website created using ReactBricks, NextJS and Tailswind CSS. 
+Portfolio website created using ReactBricks, Typescript NextJS and Tailswind CSS. 
